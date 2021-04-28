@@ -11,9 +11,9 @@ def rownowaznosc(zmiennaP, zmiennaQ):
 
 #Prezentuje działanie funkcji dla wszystkich możliwych kombinacji:
 
-liczba_1 = 1
-liczba_2 = 1
-wynik = rownowaznosc(liczba_1,liczba_2)
+liczba_g = 1
+liczba_h = 1
+wynik = rownowaznosc(liczba_g,liczba_h)
 print(wynik)
 
 liczba_a = 1
